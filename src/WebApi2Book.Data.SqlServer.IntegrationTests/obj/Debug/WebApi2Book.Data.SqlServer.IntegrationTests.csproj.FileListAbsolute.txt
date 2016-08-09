@@ -1,0 +1,5 @@
+C:\Users\crystal\Documents\GitHubVisualStudio\WebApi2Book\src\WebApi2Book.Data.SqlServer.IntegrationTests\bin\Debug\WebApi2Book.Data.SqlServer.IntegrationTests.dll
+C:\Users\crystal\Documents\GitHubVisualStudio\WebApi2Book\src\WebApi2Book.Data.SqlServer.IntegrationTests\bin\Debug\WebApi2Book.Data.SqlServer.IntegrationTests.pdb
+C:\Users\crystal\Documents\GitHubVisualStudio\WebApi2Book\src\WebApi2Book.Data.SqlServer.IntegrationTests\obj\Debug\WebApi2Book.Data.SqlServer.IntegrationTests.csprojResolveAssemblyReference.cache
+C:\Users\crystal\Documents\GitHubVisualStudio\WebApi2Book\src\WebApi2Book.Data.SqlServer.IntegrationTests\obj\Debug\WebApi2Book.Data.SqlServer.IntegrationTests.dll
+C:\Users\crystal\Documents\GitHubVisualStudio\WebApi2Book\src\WebApi2Book.Data.SqlServer.IntegrationTests\obj\Debug\WebApi2Book.Data.SqlServer.IntegrationTests.pdb
